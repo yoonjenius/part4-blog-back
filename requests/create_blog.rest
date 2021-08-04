@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Ice cream, chillin'",
+    "author": "BLACKPINK",
+    "url": "https://www.blackpink.com/introduce",
+    "likes": 231
+}
